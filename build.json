@@ -1,0 +1,21 @@
+{
+   "version":1,
+   "config":{
+      "frame":"Lumenier/QAV250-Mini-FPV-Quadcopter---Carbon-Fiber-Edition",
+      "arm":"",
+      "fc":"AbuseMark/Full-Naze32",
+      "osd":"Team-BlackSheep/TBS-Core-PNP50",
+      "receiver":"FrSky/D4R-II",
+      "flightcam":"600tvl",
+      "hqcam":"",
+      "esc":"",
+      "motor":"Cobra/CM-2208-2000kv",
+      "videotx":"ImmersionRC/5.8GHz-600mw",
+      "blackbox":"",
+      "voltagereg":"Pololu/D24V6F5",
+      "prop":"HQProp/Nylon6045",
+      "battery":[
+         "Lumenier/1800mAh-4s-75c-Lipo"
+      ]
+   }
+}
